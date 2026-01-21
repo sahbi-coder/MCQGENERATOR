@@ -3,15 +3,12 @@ Name: mcqgenerator
 Version: 0.0.1
 Author: Sahbi Kardi
 Author-email: sahbikardipl@gmail.com
-Requires-Dist:
-  - openai
-  - langchain
-  - streamlit
-  - python-dotenv
-  - PyPDF2
-  - langchain_openai
-Dynamic: 
-   - author
-   - author-email
-   - requires-dist
-
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
+Requires-Dist: langchain_openai
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist

@@ -1,6 +1,5 @@
 README.md
 setup.py
-mcqgenerator/__init__.py
 mcqgenerator.egg-info/PKG-INFO
 mcqgenerator.egg-info/SOURCES.txt
 mcqgenerator.egg-info/dependency_links.txt
